@@ -24,7 +24,7 @@
 <h2 align="center">Software, tools, environments & used IDEs:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,pr,github," />
   </a>
 </p>
 <h2 align="center">WakaTime Stats:</h2>
