@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align = "center">
- <img src=src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/5202b1aa-189b-4bc8-b9ec-05b736edfd79.svg"
+ <img src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/5202b1aa-189b-4bc8-b9ec-05b736edfd79.svg"
  height="400">
  </p>
 <p align = "center">
