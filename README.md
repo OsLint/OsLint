@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there i am Oskar Kalbarczyk </h1>
-<p1 align="center">I am curently Computer Science Student on Polish-Japanese Academy of Information Technology</p1>
+<h3 align="center">I am curently Computer Science Student on Polish-Japanese Academy of Information Technology</h3>
 
 <h2 align="center">Tech Stack:</h2>
-<p1 align="center">(From most to least mastered)</p1>
+<h3 align="center">(From most to least mastered)</h3>
 <h2 align="center">Programing languages:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
