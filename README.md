@@ -2,10 +2,17 @@
 -I am curently Computer Science Polish-Japanese Academy of Information Technology
 
 <h2 align="center">Tech Stack:</h2>
-<p1>Programing languages:</p1>
+<p1 align="center">(From most to least mastered)</p1>
+<h2 align="center">Programing languages:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,bash" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,cpp,c,bash" />
+  </a>
+</p>
+<h2 align="center">Databases:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
   </a>
 </p>
 <h2 align="center">WakaTime Stats:</h2>
