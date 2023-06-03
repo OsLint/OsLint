@@ -6,7 +6,7 @@
 <h2 align="center">Programing languages:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,cpp,c,bash" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,bash" />
   </a>
 </p>
 <h2 align="center">Frameworks and libraries:</h2>
