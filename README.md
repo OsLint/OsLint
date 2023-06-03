@@ -4,16 +4,15 @@
 <h2>Languages i am curently learning on:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,angular,cpp,c,bash" />
+    <img src="https://skillicons.dev/icons?i=java,sql,cpp,c,bash" />
   </a>
 </p>
+<p align = "center">
+ <img src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/cc480dbf-3930-48f9-8286-41b430775c28.svg"
+ height="400">
+ </p>
 
 
 <p align = "center">
 <img src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/7217c2df-c2c1-41f9-a692-54a1c4c43e61.svg" height="400">
   </p>
-<p align = "center">
-<img src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/cc480dbf-3930-48f9-8286-41b430775c28.svg"
-height="400">
-  </p>
-
