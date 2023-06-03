@@ -15,16 +15,10 @@
     <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
-<h2 align="center">Databases:</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle" />
-  </a>
-</p>
 <h2 align="center">Software, tools, environments & used IDEs:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,pr,github," />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,github," />
   </a>
 </p>
 <h2 align="center">WakaTime Stats:</h2>
