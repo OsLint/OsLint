@@ -9,10 +9,22 @@
     <img src="https://skillicons.dev/icons?i=java,js,html,css,ts,cpp,c,bash" />
   </a>
 </p>
+<h2 align="center">Frameworks and libraries:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+</p>
 <h2 align="center">Databases:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=oracle" />
+  </a>
+</p>
+<h2 align="center">Software, tools, environments & used IDEs:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=oracle" />
   </a>
 </p>
 <h2 align="center">WakaTime Stats:</h2>
