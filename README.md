@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there i am Oskar Kalbarczyk </h1>
-<h3 align="center">I am curently Computer Science Student on Polish-Japanese Academy of Information Technology</h3>
+<h1 align="center"> Hi there i am Oskar Kalbarczyk👋 </h1>
+<h3 align="center">I am a passionate Computer Science student at the Polish-Japanese Academy of Information Technology. 🌟 I have a strong enthusiasm for exploring the vast world of technology and constantly expanding my knowledge in the field. 💡</h3>
 
 <h2 align="center">Tech Stack:</h2>
 <h3 align="center">(From most to least mastered)</h3>
