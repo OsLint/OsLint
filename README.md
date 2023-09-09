@@ -1,31 +1,17 @@
-<h1 align="center"> Hi there i am Oskar Kalbarczyk👋 </h1>
-<h3 align="center">I am a passionate Computer Science student at the Polish-Japanese Academy of Information Technology. 🌟 I have a strong enthusiasm for exploring the vast world of technology and constantly expanding my knowledge in the field. 💡</h3>
+[![Discord](https://img.shields.io/discord/1010802309078450226.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/P7Z5tDbvwx)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCRLlmm4LgVG9L-VTJWG2lJg?style=social)](https://www.youtube.com/@codewithoskar)
+[![Twitter](https://img.shields.io/twitter/follow/codewithoskar?label=Twitter&style=social)](https://twitter.com/codewithoskar)
 
-<h2 align="center">Tech Stack:</h2>
-<!-- <h3 align="center">(From most to least mastered)</h3> -->
-<h2 align="center">Programing languages:</h2>
+Face Behind [Code With Oskar](https://www.youtube.com/@codewithoskar)
+
+Studying Computer Science at Polish-Japanese Academy of Information Technology 🇯🇵🇵🇱
+
+### I work mainly in:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<h2 align="center"> WakaTime Stats: </h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts" />
-  </a>
+  <img src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/55d7facd-2e69-4a18-bb86-9a14b892524c.svg" height="400">
 </p>
-<h2 align="center">Frameworks and libraries:</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular" />
-  </a>
-</p>
-<h2 align="center">Software, tools, environments & used IDEs:</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,github," />
-  </a>
-</p>
-<h2 align="center">WakaTime Stats:</h2>
-<p align = "center">
- <img src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/55d7facd-2e69-4a18-bb86-9a14b892524c.svg"
- height="400">
- </p>
-<p align = "center">
-<img src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/f099e584-59c8-4477-a1f0-4e2cd08c5e72.svg" height="400">
-  </p>
