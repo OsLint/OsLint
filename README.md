@@ -2,7 +2,7 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCRLlmm4LgVG9L-VTJWG2lJg?style=social)](https://www.youtube.com/@codewithoskar)
 [![Twitter](https://img.shields.io/twitter/follow/codewithoskar?label=Twitter&style=social)](https://twitter.com/codewithoskar)
 
-Face Behind [Code With Oskar](https://www.youtube.com/@codewithoskar)
+ Video Tutorials -> [ok.dev](https://www.youtube.com/channel/UCRLlmm4LgVG9L-VTJWG2lJg)
 
 Studying Computer Science at Polish-Japanese Academy of Information Technology 🇯🇵🇵🇱
 
