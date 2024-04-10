@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/discord/1010802309078450226.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/P7Z5tDbvwx)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCRLlmm4LgVG9L-VTJWG2lJg?style=social)](https://www.youtube.com/@codewithoskar)
-[![Twitter](https://img.shields.io/twitter/follow/codewithoskar?label=Twitter&style=social)](https://twitter.com/codewithoskar)
+[![Twitter](https://img.shields.io/twitter/follow/codewithoskar?label=Twitter&style=social)](https://twitter.com/okdotdev)
 
  Video Tutorials -> [ok.dev](https://www.youtube.com/channel/UCRLlmm4LgVG9L-VTJWG2lJg)
 
