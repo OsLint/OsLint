@@ -1,7 +1,7 @@
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRLlmm4LgVG9L-VTJWG2lJg?style=social)](https://www.youtube.com/@codewithoskar)
-[![Twitter](https://img.shields.io/twitter/follow/codewithoskar?label=Twitter&style=social)](https://twitter.com/okdotdev)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRLlmm4LgVG9L-VTJWG2lJg?style=social)](https://www.youtube.com/@oslint)
+[![Twitter](https://img.shields.io/twitter/follow/codewithoskar?label=Twitter&style=social)](https://x.com/oslinter)
 
-### 📚 Video Tutorials -> [ok.dev](https://www.youtube.com/channel/UCRLlmm4LgVG9L-VTJWG2lJg)
+
 
 👨‍💻 **Computer Science Student**  
 Studying at the [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/) 🇯🇵🇵🇱
