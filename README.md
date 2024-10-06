@@ -1,12 +1,5 @@
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRLlmm4LgVG9L-VTJWG2lJg?style=social)](https://www.youtube.com/@oslint)
-[![Twitter](https://img.shields.io/twitter/follow/codewithoskar?label=Twitter&style=social)](https://x.com/oslinter)
-
-
-
-👨‍💻 **Computer Science Student**  
-Studying at the [Polish-Japanese Academy of Information Technology](https://www.pja.edu.pl/) 🇯🇵🇵🇱
-
----
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@oslint)
+[![Twitter](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/oslinter)
 
 ### ⚙️ I work mainly in:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
