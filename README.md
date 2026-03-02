@@ -14,6 +14,8 @@ Java dev by day, building startups by night. Sharing tutorials, projects, and th
 [MyWebsite](https://kalbarczyk.dev/)
 [YouTube](https://www.youtube.com/@KalbarczykDev)
 [LinkedIn](https://www.linkedin.com/in/oskalbarczyk/)
+[Twitter/X](https://www.x.com/@KalbarczykDev)
+
 
 
 
