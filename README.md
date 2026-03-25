@@ -1,6 +1,6 @@
 # KalbarczykDev
 
-Java dev by day, building startups by night. Sharing tutorials, projects, and things I'm shipping.
+Shipping 1/1000 startups/apps before I die
 
 ### Fun Facts
 * I love linux and foss
