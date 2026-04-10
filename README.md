@@ -1,6 +1,6 @@
 # KalbarczykDev
 
-Shipping 1/1000 startups/apps before I die
+Shipping 1000 startups/apps before I die
 
 ### Fun Facts
 * I love linux and foss
