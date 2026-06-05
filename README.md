@@ -1,6 +1,6 @@
 # KalbarczykDev
 
-Shipping 1000 startups/apps before I die
+IndieDev | Java Developer @Netcompany | Content Creator 
 
 ### Fun Facts
 * I love linux and foss
